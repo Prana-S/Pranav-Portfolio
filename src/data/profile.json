@@ -1,0 +1,76 @@
+{
+  "name": "Pranav S.",
+  "headline": "Software Engineer",
+  "subheadline": "Building scalable systems and clean experiences. Based in Seattle, WA.",
+  "location": "Seattle, WA",
+  "about": "Hey, I'm Pranav — a software engineer based in Seattle. I care deeply about writing clean code, designing systems that scale, and shipping products people actually enjoy using.",
+  "profileUrl": "https://www.linkedin.com/in/pranav~s/",
+  "githubUrl": "https://github.com/",
+  "email": "hello@example.com",
+  "stats": [
+    { "label": "Years coding", "value": "4+" },
+    { "label": "Companies", "value": "3" },
+    { "label": "Projects shipped", "value": "12+" }
+  ],
+  "experience": [
+    {
+      "company": "Company A",
+      "role": "Software Engineer II",
+      "startDate": "Jan 2023",
+      "endDate": "Present",
+      "description": [
+        "Built distributed microservices handling 10M+ requests/day",
+        "Led team of 4 engineers to ship a platform feature 2 weeks early",
+        "Improved API response times 38% through caching and query optimization"
+      ]
+    },
+    {
+      "company": "Company B",
+      "role": "Software Engineer",
+      "startDate": "Jun 2021",
+      "endDate": "Dec 2022",
+      "description": [
+        "Developed full-stack features across React and Node.js",
+        "Owned authentication and permissions for 50K+ users",
+        "Raised code coverage from 40% to 82% with automated testing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "degree": "B.S. Computer Science",
+      "startDate": "2017",
+      "endDate": "2021"
+    }
+  ],
+  "skills": {
+    "Languages": ["TypeScript", "Python", "Java", "Go", "SQL"],
+    "Frameworks": ["React", "Node.js", "Spring Boot", "FastAPI", "Next.js"],
+    "Tools": ["Git", "Docker", "Kubernetes", "Figma", "Postman"],
+    "Cloud & Infra": ["AWS", "GCP", "Terraform", "Vercel", "CI/CD"]
+  },
+  "projects": [
+    {
+      "name": "Project Alpha",
+      "description": "A real-time collaborative tool for engineering teams with live cursors and conflict-free edits.",
+      "tech": ["React", "TypeScript", "WebSockets", "Redis"],
+      "github": "https://github.com/",
+      "live": ""
+    },
+    {
+      "name": "Project Beta",
+      "description": "A high-throughput data pipeline that ingests, transforms, and visualizes streaming analytics at scale.",
+      "tech": ["Python", "Kafka", "PostgreSQL", "Grafana"],
+      "github": "https://github.com/",
+      "live": ""
+    },
+    {
+      "name": "Project Gamma",
+      "description": "An open-source CLI tool to automate local dev environment setup across macOS and Linux.",
+      "tech": ["Go", "Bash", "Docker"],
+      "github": "https://github.com/",
+      "live": ""
+    }
+  ]
+}
